@@ -10,5 +10,5 @@ I study philosophy and physics at the University of Kansas. Before this, I worke
 
 - Website: https://adejola.com
 - STATSWING: https://statswing.com
-- Dialectic marker: https://adejola.com/research/from-chat-logs-to-epistemic-infrastructure
+- Dialectic marker: https://adejola.com/research/dialectic
 - Market thesis: https://adejola.com/thesis/the-arbitrage-window
