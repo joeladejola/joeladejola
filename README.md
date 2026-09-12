@@ -7,4 +7,3 @@ I study philosophy and physics at the University of Kansas. Before this, I worke
 - Website: https://adejola.com
 - STATSWING: https://statswing.com
 - SCOUTSWING: https://scoutswing.com
-- Market thesis: https://adejola.com/thesis/the-arbitrage-window
